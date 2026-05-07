@@ -4,6 +4,7 @@ pytube3
 pytube
 pydub
 youtube_transcript_api
+yt_dlp
 redis
 python-dotenv
 aiohttp
